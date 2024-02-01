@@ -18,11 +18,11 @@
 
 - 🔭 I'll be a **Google** intern
 
-- 👨‍💻 All of my projects are available at [portfolio](a)
+- 👨‍💻 All of my projects are available at [portfolio](https://afr2903.github.io/portfolio/)
 
 - 📫 Email me to **afr102903@gmail.com**
 
-- 📄 Know about my experiences ([resume](a))
+- 📄 Know about my experiences ([resume](https://afr2903.github.io/portfolio/Adan_Flores_resume.pdf))
 
 - ⚡ Fun fact: **I like musicals and working out**
 
