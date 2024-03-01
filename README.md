@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **Google Cloud, ROS2 and Elixir**
 
-- 🔭 I'll be a **Google** intern
+- 🔭 I'll be a **Google** intern 
 
 - 👨‍💻 All of my projects are available at [portfolio](https://afr2903.github.io/portfolio/)
 
