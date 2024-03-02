@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **Google Cloud, ROS2 and Elixir**
 
-- 🔭 I'll be a **Google** intern 
+- 🔭 I'll be a **Google** intern
 
 - 👨‍💻 All of my projects are available at [portfolio](https://afr2903.github.io/portfolio/)
 
@@ -25,6 +25,8 @@
 - 📄 Know about my experiences ([resume](https://afr2903.github.io/portfolio/Adan_Flores_resume.pdf))
 
 - ⚡ Fun fact: **I like musicals and working out**
+
+- 🤖 FIRST Alumni and Mentor of [**LamBot 3478**](https://github.com/FRCTeam3478)
 
 <h2 align="left">Connect with me 🤝</h2>
 <p align="left">
