@@ -66,3 +66,9 @@
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=afr2903">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=afr2903&theme=onedark" alt="afr2903" />
 </picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=afr2903&theme=onedark">
+  <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=afr2903">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=afr2903&theme=onedark" alt="afr2903" />
+</picture>
