@@ -1,3 +1,4 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=afr2903&theme=dracula&rank=-D,-C,-?&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h1 align="center">Hello there 👾 I'm Adán</h1>
 <h3 align="center">A dedicated and passionate Robotics & Software developer from Mexico</h3>
@@ -10,7 +11,7 @@
 </picture>-->
 
 
-- 🧑‍💻 I'm a SWE at [**Ixmatix Robotics**](https://github.com/IXMATIX) and [**RoBorregos**](https://github.com/RoBorregos/)
+- 🧑‍💻 I'm a Software Developer at [**Ixmatix Robotics**](https://github.com/IXMATIX) and [**RoBorregos**](https://github.com/RoBorregos/)
 
 - 📖 I study Mechatronics Engineering at ITESM
 
@@ -47,28 +48,15 @@
 <!-- GitHub profile Stats -->
 <h2>GitHub Stats 📊</h2>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=afr2903&theme=dracula&rank=-D,-C,-?&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=afr2903&show_icons=true&locale=en&theme=material-palenight&show=reviews,prs_merged_percentage&include_all_commits=false&hide_border=true&rank_icon=default" alt="afr2903" />
+</div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=afr2903&show_icons=true&locale=en&layout=compact&theme=onedark">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=afr2903&show_icons=true&locale=en&layout=compact">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=afr2903&show_icons=true&locale=en&layout=compact&theme=onedark" alt="afr2903" />
-</picture>
+<div align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=afr2903&hide_border=true&theme=material-palenight" alt="afr2903" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=afr2903&hide_border=true&show_icons=true&locale=en&layout=donut&theme=material-palenight" alt="afr2903" />
+</div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=afr2903&show_icons=true&locale=en&theme=onedark">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=afr2903&show_icons=true&locale=en">
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=afr2903&show_icons=true&locale=en&theme=onedark" alt="afr2903" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=afr2903&theme=onedark">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=afr2903">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=afr2903&theme=onedark" alt="afr2903" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=afr2903&theme=onedark">
-  <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=afr2903">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=afr2903&theme=onedark" alt="afr2903" />
-</picture>
+<div align="center">
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=afr2903&theme=tokyonight" alt="afr2903" />
+</div>
