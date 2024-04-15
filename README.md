@@ -1,4 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=afr2903&theme=dracula&rank=-D,-C,-?&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=afr2903&theme=dracula&rank=-D,-C,-B,-?&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h1 align="center">Hello there 👾 I'm Adán</h1>
 <h3 align="center">A dedicated and passionate Robotics & Software developer from Mexico</h3>
