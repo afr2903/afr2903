@@ -11,13 +11,13 @@
 </picture>-->
 
 
-- 🧑‍💻 I'm a Software Developer at [**Ixmatix Robotics**](https://github.com/IXMATIX) and [**RoBorregos**](https://github.com/RoBorregos/)
+- 🧑‍💻 I'm a Software Engineering Intern at [**Google**](https://cloud.google.com/products/agent-builder) and [**RoBorregos**](https://github.com/RoBorregos/)
 
 - 📖 I study Mechatronics Engineering at ITESM
 
-- 🌱 I’m currently learning **Google Cloud, ROS2 and Elixir**
+- 🌱 I’m currently learning **Spatial computing and AI**
 
-- 🔭 I'll be a **Google** intern
+- 🔭 I'll do a research internship at **MIT**
 
 - 👨‍💻 All of my projects are available at [portfolio](https://afr2903.github.io/portfolio/)
 
@@ -25,7 +25,7 @@
 
 - 📄 Know about my experiences ([resume](https://afr2903.github.io/portfolio/Adan_Flores_resume.pdf))
 
-- ⚡ Fun fact: **I like musicals and working out**
+- ⚡ Fun fact: **I like musicals, kayaking and working out**
 
 - 🤖 FIRST Alumni and Mentor of [**LamBot 3478**](https://github.com/FRCTeam3478)
 
