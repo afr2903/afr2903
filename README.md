@@ -1,7 +1,7 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=afr2903&theme=dracula&rank=-D,-C,-B,-?&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=afr2903&theme=dracula&rank=-D,-C,-B,-?&margin-w=10&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
-<h1 align="center">Hello there 👾 I'm Adán</h1>
-<h3 align="center">A dedicated and passionate Robotics & Software developer from Mexico</h3>
+<h1 align="center">Holaa, soy Adán 🤖</h1>
+<h3 align="center">A dedicated and passionate Robotics & Software developer from SLP, Mexico 🌮</h3>
 
 <!--
 <picture>
@@ -10,24 +10,25 @@
   <img src="https://github-profile-trophy.vercel.app/?username=afr2903&column=5&row=1&margin-w=10&theme=onedark" alt="afr2903" />
 </picture>-->
 
+- 🏭 I'm a Research Intern at [**MIT FrED Factory**](https://github.com/mit-fredfactory/), doing **VR/AR** and **AI** for manufacturing industry
 
-- 🧑‍💻 I'm a Software Engineering Intern at [**Google**](https://cloud.google.com/products/agent-builder) and [**RoBorregos**](https://github.com/RoBorregos/)
+- 📖 I study Mechatronics Engineering at Tec de Monterrey
 
-- 📖 I study Mechatronics Engineering at ITESM
+- 🧑‍💻 Former Software Engineering Intern at [**Google**](https://www.linkedin.com/posts/google_meet-ad%C3%A1n-flores-ram%C3%ADrez-a-software-engineering-activity-7234552812561440769-rjeM?utm_source=share&utm_medium=member_desktop)
 
-- 🌱 I’m currently learning **Spatial computing and AI**
+- 🦾 Software Developer and Mentor at [**RoBorregos**](https://github.com/RoBorregos/)
 
-- 🔭 I'll do a research internship at **MIT**
+- 🌱 I’m currently learning **AI-driven Decision Support Systems** and **GANs**
 
-- 👨‍💻 All of my projects are available at [portfolio](https://afr2903.github.io/portfolio/)
+- 🧰 All of my projects are available at my [portfolio](https://afr2903.github.io/portfolio/)
 
 - 📫 Email me to **afr102903@gmail.com**
 
 - 📄 Know about my experiences ([resume](https://afr2903.github.io/portfolio/Adan_Flores_resume.pdf))
 
-- ⚡ Fun fact: **I like musicals, kayaking and working out**
+- 🐶 I have 3 dogs back home
 
-- 🤖 FIRST Alumni and Mentor of [**LamBot 3478**](https://github.com/FRCTeam3478)
+- 🔷 FIRST FRC Alumni and Mentor of [**LamBot 3478**](https://github.com/FRCTeam3478)
 
 <h2 align="left">Connect with me 🤝</h2>
 <p align="left">
@@ -54,7 +55,7 @@
 
 <div align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=afr2903&hide_border=true&theme=material-palenight" alt="afr2903" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=afr2903&hide_border=true&show_icons=true&locale=en&layout=donut&theme=material-palenight" alt="afr2903" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=afr2903&hide_border=true&show_icons=true&locale=en&layout=compact&theme=material-palenight&hide=cmake,blade" alt="afr2903" />
 </div>
 
 <div align="center">
