@@ -55,7 +55,7 @@
 
 <div align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=afr2903&hide_border=true&theme=material-palenight" alt="afr2903" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=afr2903&hide_border=true&show_icons=true&locale=en&layout=compact&theme=material-palenight&hide=cmake,blade" alt="afr2903" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=afr2903&hide_border=true&show_icons=true&locale=en&layout=compact&theme=material-palenight&hide=cmake,blade,scss" alt="afr2903" />
 </div>
 
 <div align="center">
