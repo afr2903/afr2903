@@ -50,7 +50,7 @@
 <h2>GitHub Stats 📊</h2>
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=afr2903&show_icons=true&locale=en&theme=material-palenight&show=reviews,prs_merged_percentage&include_all_commits=false&hide_border=true&rank_icon=percentile" alt="afr2903" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=afr2903&show_icons=true&locale=en&theme=material-palenight&show=reviews,prs_merged_percentage&include_all_commits=false&hide_border=true&rank_icon=default" alt="afr2903" />
 </div>
 
 <div align="center">
