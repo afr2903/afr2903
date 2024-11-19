@@ -10,7 +10,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=afr2903&column=5&row=1&margin-w=10&theme=onedark" alt="afr2903" />
 </picture>-->
 
-- 🏭 I'm a Research Intern at [**MIT FrED Factory**](https://github.com/mit-fredfactory/), doing **VR/AR** and **AI** for manufacturing industry
+- 🏭 I'm a Research Intern at [**MIT FrED Factory**](https://github.com/mit-fredfactory/), doing **AI** and **VR/AR** for manufacturing industry
 
 - 📖 I study Mechatronics Engineering at Tec de Monterrey
 
@@ -18,13 +18,13 @@
 
 - 🦾 Software Developer and Mentor at [**RoBorregos**](https://github.com/RoBorregos/)
 
-- 🌱 I’m currently learning **AI-driven Decision Support Systems** and **GANs**
+- 🌱 I’m currently learning **Concurrent NN** and **GANs**
 
-- 🧰 All of my projects are available at my [portfolio](https://afr2903.github.io/portfolio/)
+- 🧰 All of my projects are available at my [portfolio](https://adanfr.com/)
 
 - 📫 Email me to **afr102903@gmail.com**
 
-- 📄 Know about my experiences ([resume](https://afr2903.github.io/portfolio/Adan_Flores_resume.pdf))
+- 📄 Know about my experiences ([resume](https://adanfr.com/Adan_Flores_resume.pdf))
 
 - 🐶 I have 3 dogs back home
 
@@ -50,7 +50,7 @@
 <h2>GitHub Stats 📊</h2>
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=afr2903&show_icons=true&locale=en&theme=material-palenight&show=reviews,prs_merged_percentage&include_all_commits=false&hide_border=true&rank_icon=default" alt="afr2903" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=afr2903&show_icons=true&locale=en&theme=material-palenight&show=reviews,prs_merged_percentage&include_all_commits=false&hide_border=true&rank_icon=percentile" alt="afr2903" />
 </div>
 
 <div align="center">
