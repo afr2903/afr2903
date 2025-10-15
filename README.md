@@ -1,7 +1,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=afr2903&theme=dracula&rank=-D,-C,-B,-?&margin-w=10&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h1 align="center">Holaaa, soy Adán 🤖</h1>
-<h3 align="center">A dedicated and passionate Robotics & Software developer from SLP, Mexico 🌮</h3>
+<h3 align="center">A dedicated and passionate Robotics, Software & AI developer from SLP, Mexico 🌮</h3>
 
 <!--
 <picture>
@@ -16,8 +16,6 @@
 
 - 🧑‍💻 Former Software Engineering Intern at [**Google**](https://www.linkedin.com/posts/google_meet-ad%C3%A1n-flores-ram%C3%ADrez-a-software-engineering-activity-7234552812561440769-rjeM?utm_source=share&utm_medium=member_desktop) and 🏭 Undergraduate Research Assistant at [**MIT MechE**](https://news.mit.edu/2025/tabletop-factory-box-makes-hands-on-manufacturing-education-more-accessible-0403)
 
-- 🦾 Software Developer and Mentor at [**RoBorregos**](https://github.com/RoBorregos/)
-
 - 🌱 I’m currently learning **DeepRL for Robotics**
 
 - 🧰 All of my projects are available at my [portfolio](https://adanfr.com/)
@@ -27,6 +25,8 @@
 - 📄 Know about my experiences ([resume](https://adanfr.com/Adan_Flores_resume.pdf))
 
 - 🐶 I have 3 dogs back home
+
+- 🦾 RoBorregos Legacy [**RoBorregos**](https://github.com/RoBorregos/)
 
 - 🔷 FIRST FRC Alumni and Mentor of [**LamBot 3478**](https://github.com/FRCTeam3478)
 
