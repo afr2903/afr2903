@@ -1,7 +1,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=afr2903&theme=dracula&rank=-D,-C,-B,-?&margin-w=10&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h1 align="center">Holaaa, soy Adán 🤖</h1>
-<h3 align="center">A dedicated and passionate Robotics, Software & AI developer from SLP, Mexico 🌮</h3>
+<h3 align="center">A dedicated and passionate Robotics, Software & AI developer from SLP, Mexico 🇲🇽🐕</h3>
 
 <!--
 <picture>
@@ -10,13 +10,13 @@
   <img src="https://github-profile-trophy.vercel.app/?username=afr2903&column=5&row=1&margin-w=10&theme=onedark" alt="afr2903" />
 </picture>-->
 
-- 🧠 I'm an AI Engineer at [**Pefai**](https://www.pefai.com/home), designing and creating the AI Agents service and using [BAML](https://docs.boundaryml.com/home).
+- 🧠 I'm a Founding Engineer at a Start-up, working with AI Voice Agents
 
-- 📖 I'm a senior in Mechatronics Engineering at Tec de Monterrey
+- ⚡️ I'm a Mechatronics Engineer from Tec de Monterrey
 
-- 🧑‍💻 Former Software Engineering Intern at [**Google**](https://www.linkedin.com/posts/google_meet-ad%C3%A1n-flores-ram%C3%ADrez-a-software-engineering-activity-7234552812561440769-rjeM?utm_source=share&utm_medium=member_desktop) and 🏭 Undergraduate Research Assistant at [**MIT MechE**](https://news.mit.edu/2025/tabletop-factory-box-makes-hands-on-manufacturing-education-more-accessible-0403)
+- 🧑‍💻 Former SWE Intern at [**Google Vertex AI**](https://www.linkedin.com/posts/google_meet-ad%C3%A1n-flores-ram%C3%ADrez-a-software-engineering-activity-7234552812561440769-rjeM?utm_source=share&utm_medium=member_desktop) and 🏭 Undergrad RA at [**MIT Device Realization Lab**](https://news.mit.edu/2025/tabletop-factory-box-makes-hands-on-manufacturing-education-more-accessible-0403)
 
-- 🌱 I’m currently learning **DeepRL for Robotics**
+- 🌱 I’m currently learning **HCI Research** and **Rust**
 
 - 🧰 All of my projects are available at my [portfolio](https://adanfr.com/)
 
@@ -33,7 +33,6 @@
 <h2 align="left">Connect with me 🤝</h2>
 <p align="left">
 <a href="https://linkedin.com/in/adanfr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adanfr" height="30" width="40" /></a>
-<a href="https://instagram.com/afr.2903" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="afr.2903" height="30" width="40" /></a>
 <a href="https://discordapp.com/users/476898916802232323" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discordapp.com/users/476898916802232323" height="30" width="40" /></a>
 </p>
 
