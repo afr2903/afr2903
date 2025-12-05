@@ -1,7 +1,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=afr2903&theme=dracula&rank=-D,-C,-B,-?&margin-w=10&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h1 align="center">Holaaa, soy Adán 🤖</h1>
-<h3 align="center">A dedicated and passionate Robotics, Software & AI developer from SLP, Mexico 🇲🇽🐕</h3>
+<h3 align="center">A dedicated and passionate developer from SLP, Mexico 🇲🇽🐕</h3>
 
 <!--
 <picture>
