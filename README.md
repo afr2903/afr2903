@@ -1,7 +1,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=afr2903&theme=dracula&rank=-D,-C,-B,-?&margin-w=10&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h1 align="center">Holaaa, soy Adán 🤖</h1>
-<h3 align="center">A dedicated and passionate developer from SLP, Mexico 🇲🇽🐕</h3>
+<h3 align="center">A roboticist from SLP, Mexico 🇲🇽🐕</h3>
 
 <!--
 <picture>
@@ -10,17 +10,17 @@
   <img src="https://github-profile-trophy.vercel.app/?username=afr2903&column=5&row=1&margin-w=10&theme=onedark" alt="afr2903" />
 </picture>-->
 
-- 🧠 I'm a Founding Engineer at a Start-up, working with AI Voice Agents
+- (π) Member of Technical Staff at [Physical Intelligence](https://www.pi.website/)
 
 - ⚡️ I'm a Mechatronics Engineer from Tec de Monterrey
 
+- 📞 Former AI Engineer at [Pefai](https://pefai.com/) & Founding Engineer at stealth start-up, working with AI Agents and voice agents
+
 - 🧑‍💻 Former SWE Intern at [**Google Vertex AI**](https://www.linkedin.com/posts/google_meet-ad%C3%A1n-flores-ram%C3%ADrez-a-software-engineering-activity-7234552812561440769-rjeM?utm_source=share&utm_medium=member_desktop) and 🏭 Undergrad RA at [**MIT Device Realization Lab**](https://news.mit.edu/2025/tabletop-factory-box-makes-hands-on-manufacturing-education-more-accessible-0403)
 
-- 🌱 I’m currently learning **HCI Research** and **Rust**
+- 🌱 I’m currently learning: How to work while watching the World Cup simultaneously ⚽️
 
 - 🧰 All of my projects are available at my [portfolio](https://adanfr.com/)
-
-- 📫 Email me to **afr102903@gmail.com**
 
 - 📄 Know about my experiences ([resume](https://adanfr.com/Adan_Flores_resume.pdf))
 
