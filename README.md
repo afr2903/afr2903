@@ -49,12 +49,12 @@
 <h2>GitHub Stats 📊</h2>
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=afr2903&show_icons=true&locale=en&theme=material-palenight&show=reviews,prs_merged_percentage&include_all_commits=true&hide_border=true&rank_icon=default" alt="afr2903" />
+  <img align="center" src="https://github-stats-extended.vercel.app/api?username=afr2903&show_icons=true&locale=en&theme=material-palenight&show=reviews,prs_merged_percentage&include_all_commits=true&hide_border=true&rank_icon=default" alt="afr2903" />
 </div>
 
 <div align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=afr2903&hide_border=true&theme=material-palenight" alt="afr2903" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=afr2903&hide_border=true&show_icons=true&locale=en&layout=compact&theme=material-palenight&hide=cmake,blade,scss" alt="afr2903" />
+  <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=afr2903&hide_border=true&show_icons=true&locale=en&layout=compact&theme=material-palenight&hide=cmake,blade,scss" alt="afr2903" />
 </div>
 
 <div align="center">
