@@ -14,11 +14,11 @@
 
 - ⚡️ I'm a Mechatronics Engineer from Tec de Monterrey
 
-- 📞 Former AI Engineer at [Pefai](https://pefai.com/) & Founding Engineer at stealth start-up, working with AI Agents and voice agents
+- 📞 Former AI Engineer at [Pefai](https://pefai.com/) & Founding Engineer at Dialogus, working with AI Agents and voice agents
 
 - 🧑‍💻 Former SWE Intern at [**Google Vertex AI**](https://www.linkedin.com/posts/google_meet-ad%C3%A1n-flores-ram%C3%ADrez-a-software-engineering-activity-7234552812561440769-rjeM?utm_source=share&utm_medium=member_desktop) and 🏭 Undergrad RA at [**MIT Device Realization Lab**](https://news.mit.edu/2025/tabletop-factory-box-makes-hands-on-manufacturing-education-more-accessible-0403)
 
-- 🌱 I’m currently learning: How to work while watching the World Cup simultaneously ⚽️
+- 🌱 I’m currently learning systems reliability at scale!
 
 - 🧰 All of my projects are available at my [portfolio](https://adanfr.com/)
 
@@ -33,7 +33,6 @@
 <h2 align="left">Connect with me 🤝</h2>
 <p align="left">
 <a href="https://linkedin.com/in/adanfr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adanfr" height="30" width="40" /></a>
-<a href="https://discordapp.com/users/476898916802232323" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discordapp.com/users/476898916802232323" height="30" width="40" /></a>
 </p>
 
 <h2>Skills 🎖️</h2>
