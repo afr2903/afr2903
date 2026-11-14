@@ -1,4 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=afr2903&theme=dracula&rank=-D,-C,-B,-?&margin-w=10&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+<!--[![trophy](https://github-profile-trophy.vercel.app/?username=afr2903&theme=dracula&rank=-D,-C,-B,-?&margin-w=10&row=1)](https://github.com/ryo-ma/github-profile-trophy)-->
 
 <h1 align="center">Holaaa, soy Adán 🤖</h1>
 <h3 align="center">A roboticist from SLP, Mexico 🇲🇽🐕</h3>
@@ -35,15 +35,6 @@
 <a href="https://linkedin.com/in/adanfr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adanfr" height="30" width="40" /></a>
 </p>
 
-<h2>Skills 🎖️</h2>
-
-#### Languages
-[![Languages](https://skillicons.dev/icons?i=cpp,py,java,js,cs,kotlin,go,rust,c,elixir,latex,matlab,php)](https://skillicons.dev)
-
-#### Tools
-[![Tools](https://skillicons.dev/icons?i=ros,opencv,gcp,tensorflow,unity,sklearn,pytorch,git,docker,linux,arduino,raspberrypi,html,laravel,anaconda,blender,powershell,vscode)](https://skillicons.dev)
-
-
 <!-- GitHub profile Stats -->
 <h2>GitHub Stats 📊</h2>
 
@@ -59,3 +50,12 @@
 <div align="center">
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=afr2903&theme=tokyonight" alt="afr2903" />
 </div>
+
+<h2>Skills 🎖️</h2>
+
+#### Languages
+[![Languages](https://skillicons.dev/icons?i=cpp,py,java,js,cs,kotlin,go,rust,c,elixir,latex,matlab,php)](https://skillicons.dev)
+
+#### Tools
+[![Tools](https://skillicons.dev/icons?i=ros,opencv,gcp,tensorflow,unity,sklearn,pytorch,git,docker,linux,arduino,raspberrypi,html,laravel,anaconda,blender,powershell,vscode)](https://skillicons.dev)
+
